@@ -1,0 +1,23 @@
+button {
+    padding: 50px 40px;
+}
+
+.btn {
+    position: relative;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    float: left;
+    width: 40%;
+}
+
+.text{
+    text-align: center;
+}
